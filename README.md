@@ -22,7 +22,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with web technologies mostly.
 
 - 🌱 Learning about psychology and mathematics.
-- ⚡ In my free time I either reading a few non fictional books but I also read fiction through comics 💭.
+- ⚡ In my free time I am either reading a few non fictional books or fiction through comics 💭.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssekitto-charles-842a4315b)
 
 ---
