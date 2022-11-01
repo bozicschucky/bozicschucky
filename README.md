@@ -27,6 +27,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### 📫 Portfolio 
+Some of the personal projects that I have worked on.
+- https://aquila.ug/
+- https://senga-app.firebaseapp.com/
+- https://maaloapp.com
+
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
