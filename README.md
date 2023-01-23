@@ -52,6 +52,6 @@ Some of the personal projects that I have worked on.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bozicschucky&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Ssekitto Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=bozicschucky) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky&layout=compact&theme=&theme=dark&background=000000))](https://github.com/bozicschucky/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky)](https://github.com/bozicschucky/github-readme-stats)
