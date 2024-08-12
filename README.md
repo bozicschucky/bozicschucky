@@ -1,7 +1,6 @@
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
-<div class="tenor-gif-embed" data-postid="25011983" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<p align="center">
+<iframe src="https://giphy.com/embed/K1oJhRNg8YrJCNUrSB" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-fire-work-friday-K1oJhRNg8YrJCNUrSB">via GIPHY</a></p>
   
 <div align="center">
 <a href="https://www.linkedin.com/in/charles-ssekitto-842a4315b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
