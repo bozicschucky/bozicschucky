@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
  <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>    -->
+ <p align="center"><img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="100"/></p>
+<p align="center">
  
 <div align="center">
 <a href="https://www.linkedin.com/in/charles-ssekitto-842a4315b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
