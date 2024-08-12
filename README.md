@@ -1,5 +1,6 @@
-
- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>   
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+ <!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>    -->
+ 
 <div align="center">
 <a href="https://www.linkedin.com/in/charles-ssekitto-842a4315b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
@@ -8,9 +9,6 @@
 </a>
 
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=bozicschucky&style=flat-square&color=blue" alt=""></p>
-
-<!-- <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> -->
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 
@@ -25,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 📫 Portfolio 
-https://t.ly/G6gFr
+  -   https://t.ly/G6gFr
 
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -47,5 +45,5 @@ https://t.ly/G6gFr
 
 ### 🔥 &nbsp; My Stats :
 <!-- ![Ssekitto Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=bozicschucky) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky&layout=compact&theme=&theme=dark&background=000000))](https://github.com/bozicschucky/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky)](https://github.com/bozicschucky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky&layout=compact&theme=&theme=dark&background=000000))](https://github.com/bozicschucky/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bozicschucky)](https://github.com/bozicschucky/github-readme-stats) -->
