@@ -1,7 +1,5 @@
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p> -->
-<iframe src="https://giphy.com/embed/K1oJhRNg8YrJCNUrSB" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-fire-work-friday-K1oJhRNg8YrJCNUrSB">via GIPHY</a></p>
-  
+ <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>   
 <div align="center">
 <a href="https://www.linkedin.com/in/charles-ssekitto-842a4315b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
