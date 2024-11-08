@@ -1,14 +1,14 @@
-👋 Hi, I'm Charles Ssekitto a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+👋 Hi, I'm Charles a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
-I am a Computer Science professional with a strong background in software development. My passion lies in solving real-world problems and making a positive impact through technology. I specialize in leveraging Web technologies, data analytics, and machine learning to perform analysis on historical and current data to gain valuable insights for business purposes and fun.
+I am a computer scientist with a deep interest in Automata & Complexity  and AI. My passion lies in breaking and hacking on things to figure out how they work. I specialize in leveraging Web technologies, data analytics, and machine learning to perform analysis on historical and current data to gain valuable insights for business purposes and fun.
 
 ## Technical Skills ⚒️
 - **Languages**:  JavaScript, Typescript, Python, Java, GO, Shell
-- **Frameworks & Libraries**:  Flask,Spring Boot, Node js (Express),Fast API, Fast AI
-- **Tools & Platforms**:Windows, Linux, AWS, Vercel, Digital Ocean
-- **Data Science & AI**: Learning about machine learning concepts and data analysis, applying these to optimize educational outcomes.
-- **Databases**: MS SQL, PostgreSQL, MySQL, MongoDB, SQL , Dynamo DB, Cassandra
+- **Frameworks & Libraries**:  Flask, Spring Boot, Node js (Express), Next js, Fast API, Fast AI
+- **Tools & Platforms**:Windows, Linux, AWS, GCP, Vercel, Digital Ocean
+- **Data Science & AI**: LangChain, Hugging Face, PyTorch, ChatGPT, Claude, TensorFlow, CrewAI, Vertex AI
+- **Databases**: MS SQL, PostgreSQL, MySQL, MongoDB, Chroma Db, Dynamo DB, Cassandra
 
 ## Key Projects 📚
 - **[Mnist_Image_classifier](https://github.com/bozicschucky/mnist_image_classifier)**: A Deep Neural Net that classifies both fashion_images(CNN) and Handwritten Number images (perceptrons) using Tensfor Js.
