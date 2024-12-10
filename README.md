@@ -13,7 +13,7 @@ I am a computer scientist with a deep interest in Automata & Complexity  and AI.
 ## Key Projects 📚
 - **[Mnist_Image_classifier](https://github.com/bozicschucky/mnist_image_classifier)**: A Deep Neural Net that classifies both fashion_images(CNN) and Handwritten Number images (perceptrons) using Tensfor Js.
 - **[Spark Bootstrap Sampling](https://github.com/bozicschucky/SparkBootstrap)**: Bootstrapping computational analysis on loads of data in specific industries and getting insights on how long a candidate is likely to stay in a certain industry over time.
-- **[Course-Attendence-System](https://github.com/bozicschucky/Course-Attendence-System)**: Built a collection of RESTful web services to automate the process of course attendance taking for students taking courses at university using SpringBoot.
+- **[Local GPT](https://github.com/bozicschucky/local_gpt)**: A full-stack ChatGPT app that uses open-source LLMS through (Ollama and LangChain).
 <!-- - **[Project Name 4]**: Focus on technology, design, and development involved.
 - **[Project Name 5]**: Additional relevant details about the project and its results. -->
 
