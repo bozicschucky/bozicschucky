@@ -1,14 +1,17 @@
-👋 Hi, I'm Charles a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+👋 Hi, I'm Charles a software engineer focused on harnessing technology to significantly impact the tech industry.
 
 ## About Me
-I am a computer scientist with a deep interest in Automata & Complexity  and AI. My passion lies in breaking and hacking on things to figure out how they work. I specialize in leveraging Web technologies, data analytics, and machine learning to perform analysis on historical and current data to gain valuable insights for business purposes and fun.
+I am a computer scientist with a deep interest in Automata & Complexity  and Software Development. My passion lies in breaking and hacking on things to figure out how they work. I specialize in leveraging Web technologies and data analytics to solve problems for fun.
 
 ## Technical Skills ⚒️
-- **Languages**:  JavaScript, Typescript, Python, Java, GO, Shell
+- **Languages**:  JavaScript, Typescript, Python, Shell
 - **Frameworks & Libraries**:  Flask, Spring Boot, Node js (Express), Next js, Fast API, Fast AI
 - **Tools & Platforms**:Windows, Linux, AWS, GCP, Vercel, Digital Ocean
 - **Data Science & AI**: LangChain, Hugging Face, PyTorch, ChatGPT, Claude, TensorFlow, CrewAI, Vertex AI
 - **Databases**: MS SQL, PostgreSQL, MySQL, MongoDB, Chroma Db, Dynamo DB, Cassandra
+- **Project Management**: Agile/Scrum, Jira, Trello, GitHub Projects
+- **Testing & CI/CD**: Jest, Mocha, React Testing Library, PyTest
+- **DevOps & Cloud**: AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins
 
 ## Key Projects 📚
 - **[Mnist_Image_classifier](https://github.com/bozicschucky/mnist_image_classifier)**: A Deep Neural Net that classifies both fashion_images(CNN) and Handwritten Number images (perceptrons) using Tensfor Js.
@@ -20,9 +23,7 @@ I am a computer scientist with a deep interest in Automata & Complexity  and AI.
 You can view these and more [here](https://github.com/bozicschucky?tab=repositories).
 
 ## Leadership & Advocacy 🌟
-<!-- - **CobbleStone Energy**: As Software Engineer, I built. -->
 - **Women in Tech**: Fostered mentorship for women breaking into the tech sector.
-<!-- - **Public Speaking**: Regular speaker at tech conferences, advocating for [specific cause/mission], and sharing insights on tech education innovations. -->
 
 ## Professional Goals 🚀
 - **Career Development**: Focused on furthering my career in Computer Science, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
